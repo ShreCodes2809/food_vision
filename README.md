@@ -1,5 +1,3 @@
----
-
 # Milestone Project 1: Food Vision Big
 
 **Description**  
